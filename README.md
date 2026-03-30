@@ -72,7 +72,7 @@ December 2018 – December 2022 | Cape Town, South Africa
 
 ## 🎥 Mock Interview
 
-[Click here to watch my mock interview]([https://your-video-link-here.com](https://github.com/itsabdul-dev/itsabdul-dev.github.io/blob/main/dabb9a96-0aab-4797-b330-874fc5e7d0a4.mp4))
+[Click here to watch my mock interview]([https://github.com/itsabdul-dev/itsabdul-dev.github.io/blob/main/dabb9a96-0aab-4797-b330-874fc5e7d0a4.mp4])
 
 ---
 
