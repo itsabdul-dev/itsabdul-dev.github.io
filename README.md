@@ -1,18 +1,9 @@
 # Abdullahi Farah
 
-**Co-Founder & Systems Developer | Application Development Student**  
+** Application Development Student**  
 📍 Cape Town, South Africa  
 📧 230971091@mycput.ac.za | 📞 +27 83 800 0057  
 🔗 [LinkedIn](https://linkedin.com/in/abdullahi-farah-481b662a4) | [GitHub](https://github.com/itsabdul-dev) | [Portfolio](https://itsabdullahiportfolio.vercel.app)
-
----
-
-## About Me
-
-I am an Application Development student at CPUT and co-founder of Syntra Automations,
-a Cape Town-based software and automation agency. I build SaaS products, automation
-workflows, and web applications for SMEs. I have a background in sales, eCommerce,
-and web development with hands-on experience running multiple ventures from scratch.
 
 ---
 
