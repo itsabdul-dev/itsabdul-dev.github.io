@@ -1,6 +1,6 @@
 # Abdullahi Farah
 
-** Application Development Student**  
+**Application Development Student**  
 📍 Cape Town, South Africa  
 📧 230971091@mycput.ac.za | 📞 +27 83 800 0057  
 🔗 [LinkedIn](https://linkedin.com/in/abdullahi-farah-481b662a4) | [GitHub](https://github.com/itsabdul-dev) | [Portfolio](https://itsabdullahiportfolio.vercel.app)
@@ -72,7 +72,7 @@ December 2018 – December 2022 | Cape Town, South Africa
 
 ## 🎥 Mock Interview
 
-
+[Click here to watch my mock interview]([https://your-video-link-here.com](https://github.com/itsabdul-dev/itsabdul-dev.github.io/blob/main/dabb9a96-0aab-4797-b330-874fc5e7d0a4.mp4))
 
 ---
 
