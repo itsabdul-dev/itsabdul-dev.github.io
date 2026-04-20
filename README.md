@@ -72,7 +72,10 @@ December 2018 – December 2022 | Cape Town, South Africa
 
 ## 🎥 Mock Interview
 
-[Click here to watch my mock interview](https://github.com/itsabdul-dev/itsabdul-dev.github.io/blob/main/dabb9a96-0aab-4797-b330-874fc5e7d0a4.mp4)
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/itsabdul-dev/itsabdul-dev.github.io/main/dabb9a96-0aab-4797-b330-874fc5e7d0a4.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="https://github.com/itsabdul-dev/itsabdul-dev.github.io/blob/main/dabb9a96-0aab-4797-b330-874fc5e7d0a4.mp4">Click here to watch my mock interview.</a>
+</video>
 
 ---
 
@@ -83,4 +86,4 @@ December 2018 – December 2022 | Cape Town, South Africa
 
 ---
 
-*Code 10 Driver's License | Last updated: March 2026*
+
