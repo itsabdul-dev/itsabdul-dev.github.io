@@ -21,7 +21,7 @@ Islamia College | 2017 – 2022 | Athlone, Cape Town
 ## Experience
 
 **Syntra Automations — Co-Founder & Systems Developer**  
-December 2025 – Present | Cape Town, South Africa
+December 2025 – May 2026 | Cape Town, South Africa
 - Design and develop business automation and workflow systems for SMEs
 - Build chatbot interfaces, booking platforms, and operational dashboards
 - Develop MVP web applications to prototype client solutions
